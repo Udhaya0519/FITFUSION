@@ -110,6 +110,7 @@ ul {
     padding: 10px 20px;
     border-radius: 20px;
     color: #ffffff;
+    font-size: small;
 }
 .banner-wrapper>div:nth-child(1)>div>a:hover{
     background-color: rgba(236, 135, 76, 0.826);
