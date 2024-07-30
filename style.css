@@ -130,6 +130,7 @@ ul {
     display: flex;
     gap: 30px;
     padding: 150px 0;
+    justify-content: center;
 }
 .packages-wrapper>div:nth-child(1){
     background-color: rgba(245, 169, 102, 0.704);
